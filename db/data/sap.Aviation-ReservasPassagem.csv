@@ -1,0 +1,6 @@
+﻿id_reserva;id_passageiro;id_horario_voo;assento;classe;status;data_reserva;preco
+a1b2c3d4-e5f6-7g8h-9i0j-1k2l3m4n5o6p;1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p;101;12A;Executiva;Confirmada;2024-12-14;950.00
+b2c3d4e5-f6g7-8h9i-0j1k-2l3m4n5o6p7;2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7;102;24C;Econômica;Confirmada;2024-12-13;350.00
+c3d4e5f6-g7h8-9i0j-1k2l-3m4n5o6p7q8;3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8;103;10B;Executiva;Cancelada;2024-12-10;890.00
+d4e5f6g7-h8i9-0j1k-2l3m-4n5o6p7q8r9;4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9;104;18D;Econômica;Confirmada;2024-12-12;280.00
+e5f6g7h8-i9j0-1k2l-3m4n-5o6p7q8r9s0;5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0;105;1A;Executiva;Confirmada;2024-12-15;1200.00

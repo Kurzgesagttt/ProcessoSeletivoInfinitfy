@@ -1,0 +1,6 @@
+id_passageiro;cpf;nome;email;telefone;data_de_nascimento;endereco
+1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p;12345678901;Ana Silva;ana.silva@email.com;(11) 98765-4321;1985-03-15;Rua das Flores, 123, São Paulo, SP
+2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7;98765432100;Bruno Costa;bruno.costa@email.com;(21) 99876-5432;1990-07-22;Avenida Central, 456, Rio de Janeiro, RJ
+3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8;45612378900;Carla Mendes;carla.mendes@email.com;(31) 91234-5678;1978-11-02;Praça da Liberdade, 789, Belo Horizonte, MG
+4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9;32165498700;Diego Oliveira;diego.oliveira@email.com;(51) 93456-7890;1982-05-30;Rua dos Limoeiros, 321, Porto Alegre, RS
+5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0;65498732100;Elisa Santos;elisa.santos@email.com;(71) 95678-1234;1995-09-17;Alameda dos Pinhais, 654, Salvador, BA
